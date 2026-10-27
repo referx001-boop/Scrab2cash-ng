@@ -1,0 +1,11 @@
+{
+  "name": "Scrap2Cash NG",
+  "short_name": "Scrap2Cash",
+  "description": "Turn recyclable waste into naira. Estimate, find collectors, request pickup.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f5f1",
+  "theme_color": "#0f4e35",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
